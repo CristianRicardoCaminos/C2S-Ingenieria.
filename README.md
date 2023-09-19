@@ -30,3 +30,5 @@ Paleta de colores:
 
 Logo
  ![Logo] (https://scontent.fcor10-3.fna.fbcdn.net/v/t39.30808-6/365090032_767856608679254_2235418054522174000_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=3ygImM3t8mwAX-2F6Nn&_nc_ht=scontent.fcor10-3.fna&oh=00_AfDTmecr4qVziQm08i9Ql8APBMOM-U5VytDUEQbhgZ5xCg&oe=64E2E054)
+
+ link de Figma:https://www.figma.com/file/K6KLQBoOXr2EA6rojxiyca/Untitled?type=design&node-id=3-17&mode=design&t=rhQJbvHFLQBvfGPY-0
